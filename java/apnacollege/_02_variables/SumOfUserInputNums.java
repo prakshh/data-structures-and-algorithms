@@ -17,3 +17,6 @@ public class SumOfUserInputNums {
         System.out.println("Sum of " + a + " and " + b + " = " + sum);
     }
 }
+
+
+// next will be pattern programs
