@@ -1,4 +1,4 @@
-package com.apnacollege;
+package javaWorld.apnacollege._02_variables;
 
 import java.util.*;
 
@@ -13,6 +13,7 @@ public class SumOfUserInputNums {
         int a = sc.nextInt();
         System.out.println("Enter second number :");
         int b = sc.nextInt();
+        sc.close();
         int sum = a + b;
         System.out.println("Sum of " + a + " and " + b + " = " + sum);
     }

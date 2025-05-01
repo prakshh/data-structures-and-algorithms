@@ -1,4 +1,4 @@
-package com.apnacollege;
+package javaWorld.apnacollege._01_intro;
 
 public class Main {
     public static void main(String[] args) {
