@@ -15,7 +15,7 @@ public class Main {
         b = 20;
         name = "ironman";
 
-        System.out.println("b is : " + b);          // 20
+        System.out.println("a is : " + a + ", b is : " + b + ", age is : " + age + " and price is : " + price);          // 20
         System.out.println("name is : " + name);    // ironman
 
     }
